@@ -61,7 +61,7 @@ footer{
     width: 100%;
     height: 80px;
     margin-top: 30px;
-    background: #873e85;
+   background: rgb(42, 93, 233);;
     text-align: center;
     color: white;
     padding-top: 30px;
@@ -69,6 +69,7 @@ footer{
 }
 .footer_first{
     margin-top: 17%;
+    background: rgb(42, 93, 233);
 }
 
 ul{
@@ -95,4 +96,9 @@ ul{
     width: 10%;
     background: hsl(217, 78%, 42%);
     position: absolute;
+}
+.card {
+    margin-top: 5%;
+    margin-left: 45%;
+    
 }
